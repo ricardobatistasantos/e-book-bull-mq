@@ -1,1 +1,1 @@
-# e-book-bull-mq
+# Sistema de envio de email com mensageria
